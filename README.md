@@ -6,4 +6,4 @@ This repo is a place for me to store the small projects I build as I learn React
 
 My first foray into React is a simple project to set the background color of a page based on rgb sliders, and update the color whenever the sliders are updated. A hex code is also provided for the currently selected color.
 
-![Screenshot of Background Changer App](https://www.dropbox.com/home/Public/bg-changer-screenshot.png)
+![Screenshot of Background Changer App](http://imgur.com/a/aHeuw)
